@@ -1,0 +1,146 @@
+body
+{
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-bottom: 8px;
+	margin-left: 20px;
+	background-color: #FFFFFF;
+	background-image:url(index_files/bg.jpg); background-attachment: fixed; background-repeat: repeat;
+}
+
+.text, .nav, .subb, .head
+{
+	font-family: "Lucida Grande", Verdana, Geneva, Arial, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #000;
+}
+
+.subb
+{
+	font-weight: 900;
+}
+
+.head
+{
+	color: #000000;
+	font-weight: 900;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	padding-bottom: 2px;
+}
+
+.text a:link
+{
+	color: #666666;
+	text-decoration: underline;
+	margin: 0 0 1 px 0;
+}
+
+.text a:visited
+{
+	color: #333333;
+	text-decoration: none;
+}
+
+.text a:active
+{
+	color: #999999;
+	text-decoration: underline;
+	margin: 0px;
+	border-style: solid;
+	border-width: 0 0 1px 0;
+}
+.text a:hover
+{
+	color: #FFFFFF;
+	border-width: 0 0 1px 0;
+	background-color: #000;
+	text-decoration: none;
+
+}
+
+
+.head a:link, .nav a:link
+{
+	color: #000000;
+	text-decoration: none;
+	margin: 0 0 1 px 0;
+	
+}
+.nav a:visited  
+{
+	color: #666666;
+	text-decoration: none;
+}
+
+.head a:active, .nav a:active
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	
+}	
+.nav a:hover  
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #000;
+}
+.text_big {
+	font-family: Helvetica, Arial, Swiss, sans-serif;
+	;
+	font-size: 60px;
+	color: #000000;
+	font-weight: 900;
+	letter-spacing: -2px;
+	line-height: 70px;
+}
+
+.text_big a:link, .text_big a:visited
+{
+	color: #000000;
+	text-decoration: underline;
+	border-bottom-color: #000000;
+}
+
+
+
+.text_big a:active
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+	border-bottom-color: #999999;
+}
+.text_big a:hover
+{
+	color: #FFFFFF;
+	border-width: 0 0 1px 0;
+	background-color: #000;
+	text-decoration: none;
+
+}
+.head a:visited {
+	color: #000;
+	text-decoration: none;
+}
+.head a:hover {
+	background-color: #000000;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.bild {
+	margin: 0px;
+	padding: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.white {
+	color: #FFF;
+	font-size: 2px;
+}
+.book {
+	text-align: right;
+}
