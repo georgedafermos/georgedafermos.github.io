@@ -5,14 +5,14 @@ body
 	margin-bottom: 8px;
 	margin-left: 20px;
 	background-color: #FFFFFF;
-	background-image:url(index_files/bg.jpg); background-attachment: fixed; background-repeat: repeat;
+	background-image:url(bg.jpg); background-attachment: fixed; background-repeat: repeat;
 }
 
 .text, .nav, .subb, .head
 {
 	font-family: "Lucida Grande", Verdana, Geneva, Arial, sans-serif;
-	font-size: 11px;
-	line-height: 16px;
+	font-size: 14px;
+	line-height: 18px;
 	color: #000;
 }
 
